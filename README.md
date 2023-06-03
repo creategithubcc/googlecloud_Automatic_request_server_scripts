@@ -1,0 +1,2 @@
+# googlecloud_Automatic_request_server_scripts
+ 这是关于谷歌云服务器如何通过Python代码自动申请和释放服务器的程序。
